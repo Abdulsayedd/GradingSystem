@@ -86,7 +86,7 @@ namespace GradingSystem
         {
             searchtxtbox.Text = "";
         }
-
+//Abdulsayed
         private void timer1_Tick(object sender, EventArgs e)
         {
             saved.Text = string.Empty;
@@ -220,6 +220,7 @@ namespace GradingSystem
         {
 
         }
+        //Abdulsayed
         public class Node
         {
             public string name = "", id = "", degree = "";
